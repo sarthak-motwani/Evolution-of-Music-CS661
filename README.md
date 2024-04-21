@@ -7,4 +7,5 @@ pandas
 plotly
 geopandas
 dash
+wordcloud
 ```
